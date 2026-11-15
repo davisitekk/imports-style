@@ -1,0 +1,10 @@
+# Cloudflare Pages — este arquivo NAO e lido pelo Pages; serve de referencia.
+# Configuracao no painel (Settings -> Builds & deployments):
+#   Framework preset: Vite
+#   Build command: npm run build
+#   Build output directory: dist
+#   Root directory: (vazio)
+#   NODE_VERSION = 20
+name = "importados-style"
+compatibility_date = "2024-11-01"
+pages_build_output_dir = "dist"

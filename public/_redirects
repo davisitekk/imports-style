@@ -1,0 +1,6 @@
+# Cloudflare Pages — regras de rota
+# 200 = render/proxy (mantem a URL)
+/api/payment-webhook  /api/payment-webhook  200
+
+# SPA: qualquer rota desconhecida cai no index.html
+/*  /index.html  200
